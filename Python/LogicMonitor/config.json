@@ -1,0 +1,12 @@
+{
+  "LogicMonitor": {
+    "API_URL": "https://YOUR_SUBDOMAIN.logicmonitor.com/santaba/rpc/report/export?outputFormat=json&reportId=123",
+    "API_TOKEN": "YOUR_API_TOKEN"
+  },
+  "AzureSynapseSQL": {
+    "SERVER": "<Azure_Synapse_SQL_Server>",
+    "DATABASE": "<Azure_Synapse_SQL_Database>",
+    "USERNAME": "<Azure_Synapse_SQL_Username>",
+    "PASSWORD": "<Azure_Synapse_SQL_Password>"
+  }
+}

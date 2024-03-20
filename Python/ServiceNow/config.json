@@ -1,0 +1,13 @@
+{
+  "ServiceNow": {
+    "API_URL": "<ServiceNow_API_URL>",
+    "USERNAME": "<Your_ServiceNow_Username>",
+    "PASSWORD": "<Your_ServiceNow_Password>"
+  },
+  "AzureSynapseSQL": {
+    "SERVER": "<Azure_Synapse_SQL_Server>",
+    "DATABASE": "<Azure_Synapse_SQL_Database>",
+    "USERNAME": "<Azure_Synapse_SQL_Username>",
+    "PASSWORD": "<Azure_Synapse_SQL_Password>"
+  }
+}
